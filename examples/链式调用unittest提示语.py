@@ -1,4 +1,7 @@
 #   https://time.geekbang.org/column/article/646987?utm_campaign=geektime_search&utm_content=geektime_search&utm_medium=geektime_search&utm_source=geektime_search&utm_term=geektime_search
+# https://www.pinecone.io/learn/series/langchain/
+# https://api.python.langchain.com/en/latest/langchain_api_reference.html
+
 
 from langchain.chains import SequentialChain
 
